@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackavryashnik
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
-- 💞️ I’m looking first job
+- 🌱 I'm currently improve my skills and learn new features
+- 💞️ I’m looking job
 - 📫 [Contact me](http://t.me/YevhenVryashnik)
 
 <!---
