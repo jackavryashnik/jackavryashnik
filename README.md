@@ -19,5 +19,5 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/jackavryashnik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jackavryashnik" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="http://t.me/YevhenVryashnik" target="_blank"><img alt="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="28" /></a>
+<p> <a href="http://t.me/YevhenVryashnik" target="_blank"><img alt="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="28" /></a> <a href="https://github.com/jackavryashnik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jackavryashnik" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
