@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Yevhen, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/> <b>Dnipro, Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Przemysl, Poland</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-2088FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -20,4 +20,5 @@
 
 <h3>Where to find me</h3>
 <p> <a href="http://t.me/YevhenVryashnik" target="_blank"><img alt="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="28" /></a> <a href="https://github.com/jackavryashnik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jackavryashnik" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:jackavryashnik@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jackavryashnik@gmail.com" width="90" /></a>
 </p>
